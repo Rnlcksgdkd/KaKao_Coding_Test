@@ -2,7 +2,7 @@
 
 > 코딩테스트 너무 힘들어욧
 
-
+> 깃허브에서도 직접 수정가능
 
 ### 2020 KaKao Blind Recruitment
 
